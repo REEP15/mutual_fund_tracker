@@ -1,6 +1,0 @@
-streamlit
-mftool
-pandas
-matplotlib
-requests
-bs4
